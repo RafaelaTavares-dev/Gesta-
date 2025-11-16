@@ -71,8 +71,7 @@ export default function App() {
                 Sua jornada de gestação com saúde e amor
               </h2>
               <p className="text-gray-600 text-lg">
-                Orientações especializadas sobre nutrição e bem-estar para todas as fases da sua gestação. 
-                Cuide de você e do seu bebê com informações confiáveis e práticas.
+                A gestação é uma jornada de transformação e crescimento, marcada pelo desenvolvimento do bebê dentro do útero materno. Este período dura, em média, 40 semanas, sendo dividido em três trimestres — cada um com suas próprias emoções, desafios e necessidades. Nossa missão é cuidar de você e do seu bebê com Orientações especializadas sobre nutrição, saúde mental e bem-estar para todas as fases, oferecendo informações confiáveis e práticas para a sua jornada com saúde e amor.
               </p>
               <div className="flex flex-wrap gap-4">
                 <div className="flex items-center gap-2">
